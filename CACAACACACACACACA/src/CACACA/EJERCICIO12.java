@@ -5,9 +5,9 @@ public class EJERCICIO12 {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		int i = 0;
-		int j = 0;
-		int k = 0;
+		int i = 000000000;
+		int j = 0000000000000;
+		int k = 00000000000;
 
 		do {
 
