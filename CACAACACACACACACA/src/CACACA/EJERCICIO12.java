@@ -5,7 +5,7 @@ public class EJERCICIO12 {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		int i = 00;
+		int i = 0;
 		int j = 0;
 		int k = 0;
 
